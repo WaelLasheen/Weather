@@ -16,7 +16,6 @@ class WeatherAPI {
         "https://api.openweathermap.org/data/2.5/forecast?lat=${position.latitude}&lon=${position.longitude}&appid=${API_key}" :
         "https://api.openweathermap.org/data/2.5/forecast?q=$city&appid=${API_key}";
 
-
     final respond = await http.get(Uri.parse(url));
 
     if (respond.statusCode == 200) {
