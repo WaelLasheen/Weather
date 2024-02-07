@@ -15,7 +15,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String city = "mansura";
+  String city = "";
   final search = TextEditingController();
 
   @override
