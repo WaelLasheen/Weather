@@ -13,21 +13,20 @@ A simple weather application built with Flutter. This app fetches the current we
 
 1. **Ask Permission for Location**
    
-   ![Ask Permission for Location](![Screenshot_20240712-231652](https://github.com/user-attachments/assets/07bf52d5-bb03-441a-857e-fb343d58a8a9))
+   ![Ask Permission for Location](https://github.com/user-attachments/assets/07bf52d5-bb03-441a-857e-fb343d58a8a9)
 
 2. **Current Location Weather UI**
    
-   ![Current Location Weather UI](![Screenshot_20240712-231802](https://github.com/user-attachments/assets/d9cc3783-a47a-4f68-a48a-197f75a0eeca))
+   ![Current Location Weather UI](https://github.com/user-attachments/assets/d9cc3783-a47a-4f68-a48a-197f75a0eeca)
 
 
 3. **Detailed Weather Information**
    
-   ![Detailed Weather Information](![Screenshot_20240712-231811](https://github.com/user-attachments/assets/573c1854-3505-48e4-ad5d-59ef4e7682be)
-)
+   ![Detailed Weather Information](https://github.com/user-attachments/assets/573c1854-3505-48e4-ad5d-59ef4e7682be)
 
 4. **Search for City Weather**
    
-   ![Search for City Weather](![Screenshot_20240712-232029](https://github.com/user-attachments/assets/d9432a40-c1eb-4c71-9133-4ecc970a2860))
+   ![Search for City Weather](https://github.com/user-attachments/assets/d9432a40-c1eb-4c71-9133-4ecc970a2860)
 
 ## Installation
 
