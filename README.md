@@ -15,28 +15,11 @@ A simple weather application built with Flutter. This app fetches the current we
 |---|---|---|---|
 | <img src="https://github.com/user-attachments/assets/07bf52d5-bb03-441a-857e-fb343d58a8a9" alt="Ask Permission for Location" width="200"/> <br> Ask Permission for Location | <img src="https://github.com/user-attachments/assets/d9cc3783-a47a-4f68-a48a-197f75a0eeca" alt="Current Location Weather UI" width="200"/> <br> Current Location Weather UI | <img src="https://github.com/user-attachments/assets/573c1854-3505-48e4-ad5d-59ef4e7682be" alt="Detailed Weather Information" width="200"/> <br> Detailed Weather Information | <img src="https://github.com/user-attachments/assets/d9432a40-c1eb-4c71-9133-4ecc970a2860" alt="Search for City Weather" width="200"/> <br> Search for City Weather |
 
-
 ## Screenshots
 
-<div style="max-width: 1000px; margin: 0 auto; text-align: center;">
-  <div style="display: inline-block; margin: 0 20px; vertical-align: top;">
-    <p style="font-weight: bold; color: #333; margin-bottom: 10px;">Ask Permission for Location</p>
-    <img src="https://github.com/user-attachments/assets/07bf52d5-bb03-441a-857e-fb343d58a8a9" alt="Ask Permission for Location" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-  </div>
-  <div style="display: inline-block; margin: 0 20px; vertical-align: top;">
-    <p style="font-weight: bold; color: #333; margin-bottom: 10px;">Current Location Weather UI</p>
-    <img src="https://github.com/user-attachments/assets/d9cc3783-a47a-4f68-a48a-197f75a0eeca" alt="Current Location Weather UI" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-  </div>
-  <div style="display: inline-block; margin: 0 20px; vertical-align: top;">
-    <p style="font-weight: bold; color: #333; margin-bottom: 10px;">Detailed Weather Information</p>
-    <img src="https://github.com/user-attachments/assets/573c1854-3505-48e4-ad5d-59ef4e7682be" alt="Detailed Weather Information" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-  </div>
-  <div style="display: inline-block; margin: 0 20px; vertical-align: top;">
-    <p style="font-weight: bold; color: #333; margin-bottom: 10px;">Search for City Weather</p>
-    <img src="https://github.com/user-attachments/assets/d9432a40-c1eb-4c71-9133-4ecc970a2860" alt="Search for City Weather" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-  </div>
-</div>
-
+|  |  |  |  |
+|---|---|---|---|
+| Ask Permission for Location <br> <img src="https://github.com/user-attachments/assets/07bf52d5-bb03-441a-857e-fb343d58a8a9" alt="Ask Permission for Location" width="200"/> | Current Location Weather UI <br> <img src="https://github.com/user-attachments/assets/d9cc3783-a47a-4f68-a48a-197f75a0eeca" alt="Current Location Weather UI" width="200"/> | Detailed Weather Information <br> <img src="https://github.com/user-attachments/assets/573c1854-3505-48e4-ad5d-59ef4e7682be" alt="Detailed Weather Information" width="200"/> | Search for City Weather <br> <img src="https://github.com/user-attachments/assets/d9432a40-c1eb-4c71-9133-4ecc970a2860" alt="Search for City Weather" width="200"/> |
 
 ## Installation
 
