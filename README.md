@@ -30,7 +30,6 @@ A simple weather application built with Flutter. This app fetches the current we
   </div>
 </div>
 
-
 ## Installation
 
 1. Clone the repository:
