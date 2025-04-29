@@ -11,24 +11,9 @@ A simple weather application built with Flutter. This app fetches the current we
 
 ## Screenshots
 
-<div style="display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/07bf52d5-bb03-441a-857e-fb343d58a8a9" alt="Ask Permission for Location" width="200"/>
-    <p style="margin-top: 10px;">Ask Permission for Location</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/d9cc3783-a47a-4f68-a48a-197f75a0eeca" alt="Current Location Weather UI" width="200"/>
-    <p style="margin-top: 10px;">Current Location Weather UI</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/573c1854-3505-48e4-ad5d-59ef4e7682be" alt="Detailed Weather Information" width="200"/>
-    <p style="margin-top: 10px;">Detailed Weather Information</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/d9432a40-c1eb-4c71-9133-4ecc970a2860" alt="Search for City Weather" width="200"/>
-    <p style="margin-top: 10px;">Search for City Weather</p>
-  </div>
-</div>
+|  |  |  |  |
+|---|---|---|---|
+| <img src="https://github.com/user-attachments/assets/07bf52d5-bb03-441a-857e-fb343d58a8a9" alt="Ask Permission for Location" width="200"/> <br> Ask Permission for Location | <img src="https://github.com/user-attachments/assets/d9cc3783-a47a-4f68-a48a-197f75a0eeca" alt="Current Location Weather UI" width="200"/> <br> Current Location Weather UI | <img src="https://github.com/user-attachments/assets/573c1854-3505-48e4-ad5d-59ef4e7682be" alt="Detailed Weather Information" width="200"/> <br> Detailed Weather Information | <img src="https://github.com/user-attachments/assets/d9432a40-c1eb-4c71-9133-4ecc970a2860" alt="Search for City Weather" width="200"/> <br> Search for City Weather |
 
 
 ## Installation
