@@ -11,7 +11,7 @@ A simple weather application built with Flutter. This app fetches the current we
 
 ## Screenshots
 
-<div style="display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
   <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/07bf52d5-bb03-441a-857e-fb343d58a8a9" alt="Ask Permission for Location" width="200"/>
     <p>Ask Permission for Location</p>
